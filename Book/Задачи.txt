@@ -2,3 +2,6 @@
 BDD, DDT, KDT, — найдите их описание в Интернете и изучите. Конечно
 же, это задание относится и к любым другим непонятным терминам.
 
+ISTQB Glossary:
+test-driven development (TDD)
+A way of developing software where the test cases are developed, and often automated, before the software is developed to run those test cases.
