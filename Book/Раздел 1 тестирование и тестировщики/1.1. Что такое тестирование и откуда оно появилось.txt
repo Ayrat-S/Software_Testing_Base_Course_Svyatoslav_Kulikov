@@ -1,7 +1,15 @@
 1.1. Что такое тестирование и откуда оно появилось
 
-Тестирование программного обеспечения — процесс анализа программного средства и сопутствующей документации с целью выявления
+    Тестирование программного обеспечения — процесс анализа программного средства и сопутствующей документации с целью выявления
 дефектов и повышения качества продукта.
+
+    В глоссарии ISTQB нет термина «тестирование ПО», который широко используется в русском языке. Там есть лишь термин «тестирование (testing)».
+ISTQB Glossary:
+Testing. 
+The process consisting of all lifecycle activities, both static and dynamic, concerned with planning, preparation and 
+evaluation of software products and related work products to determine that they satisfy specified requirements, to demonstrate that
+they are fit for purpose and to detect defects. [ISTQB Glossary]
+
 
 Эпохи тестирования:
 1. 50-60е / Концепция - "Исчерпывающее тестирование".

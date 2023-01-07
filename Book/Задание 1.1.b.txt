@@ -1,0 +1,24 @@
+Задание 1.1.b: если вам не очень хорошо знакомы такие понятия как TDD,
+BDD, DDT, KDT, — найдите их описание в Интернете и изучите. Конечно
+же, это задание относится и к любым другим непонятным терминам.
+
+ISTQB Glossary:
+
+test-driven development (TDD)
+A way of developing software where the test cases are developed, and often automated, before the software is developed to run those test cases.
+Способ разработки программного обеспечения, при котором тестовые сценарии разрабатываются и часто автоматизируются до того, как будет разработано 
+программное обеспечение для запуска этих тестовых случаев.
+
+behavior-driven development (BDD)
+A collaborative approach to development in which the team is focusing on delivering expected behavior of a component or system for the customer, which forms the basis for testing.
+Совместный подход к разработке, при котором команда сосредотачивается на обеспечении ожидаемого поведения компонента или системы для клиента, что формирует основу для тестирования.
+
+data-driven testing (DDT)
+A scripting technique that uses data files to contain the test data and expected results needed to execute the test scripts.
+Техника написания сценариев, которая использует файлы данных для хранения тестовых данных и ожидаемых результатов, необходимых для выполнения тестовых сценариев.
+
+keyword-driven testing (KDT)
+A scripting technique in which test scripts contain high-level keywords and supporting files that contain low-level scripts that implement those keywords.
+Метод написания сценариев, при котором тестовые сценарии содержат ключевые слова высокого уровня, а вспомогательные файлы содержат низкоуровневые сценарии, реализующие эти ключевые слова.
+
+
